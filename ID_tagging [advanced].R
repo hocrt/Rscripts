@@ -1,6 +1,6 @@
 #firstqnr=[starting file number]
 firstqnr=10003487
-filename_org="ÉÆ sample raw data cleared P2.txt"
+filename_org="file_name.txt"
 setwd("C:\\Users\\Public\\qretrieve\\out\\IZ period\\IZ sample PDFs final")
 
 #List of files 
