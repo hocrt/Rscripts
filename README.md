@@ -11,4 +11,4 @@ The resulting file is named using the pre-fix "mod_" to the original text file.
 
 ## generate list 
 
-The script generates a list with the file names in a given directory and saves them in a file (*filename_org*).
+The script generates a list of the file names in a given directory and saves them in a file (*filename_org*).
