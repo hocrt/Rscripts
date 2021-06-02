@@ -18,5 +18,5 @@ for (i in 1:(length(flist)-1)){
     qbody2=c(qbody2,  paste(index))
 }
 
-setwd("C:\\Users\\Φώτης\\Documents\\ΒτΕ\\Parliamentary Control")
+setwd("C:\\Users\\Documents\\ΒτΕ\\Parliamentary Control")
 write(qbody2,paste(filename_org,sep=""))
