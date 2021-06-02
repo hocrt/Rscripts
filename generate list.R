@@ -1,6 +1,6 @@
 firstqnr=9149776
 filename_org="List_sample_files.txt"
-setwd("C:\\Users\\Φώτης\\Documents\\ΒτΕ\\Parliamentary Control\\sample\\sample files")
+setwd("C:\\Users\\Documents\\ΒτΕ\\Parliamentary Control\\sample\\sample files")
 
 filelist=dir()
 
